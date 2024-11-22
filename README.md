@@ -6,8 +6,9 @@
 
 ## 🎥 Dokumentasi Video
 
-Untuk melihat dokumentasi penggunaan bot ini, Anda dapat menonton video berikut:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H1Qs5l3GcZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Untuk melihat dokumentasi penggunaan bot ini, Anda dapat menonton video berikut dengan mengklik gambar play di bawah:
+
+[![Dokumentasi Pribadi: KUMAL OSINT Bot Telegram Tanpa Login StudentSite](https://img.youtube.com/vi/H1Qs5l3GcZQ/0.jpg)](https://youtu.be/H1Qs5l3GcZQ)
 
 ---
 
@@ -25,3 +26,4 @@ Untuk melihat dokumentasi penggunaan bot ini, Anda dapat menonton video berikut:
 - Video ini bersifat **pribadi** dan hanya untuk keperluan dokumentasi pribadi saya.
 - Bot ini dikembangkan untuk tujuan **pembelajaran dan demonstrasi teknis**. Tidak untuk distribusi atau penggunaan komersial.
 - Bot ini hanya digunakan untuk keperluan OSINT pribadi dan tidak diperuntukkan untuk kegiatan ilegal atau penyalahgunaan data.
+
